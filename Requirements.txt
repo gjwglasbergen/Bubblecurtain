@@ -1,0 +1,12 @@
+Pandas
+matplotlib.pyplot as plt
+numpy as np
+os
+matplotlib.ticker *
+matplotlib.colorbar
+acoustics
+scipy.optimize.curve_fit
+scipy.integrate simps, odeint
+sklearn.metrics.r2_score
+mpl_toolkits.axes.grid1.make_axes_locatable
+math
